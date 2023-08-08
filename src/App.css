@@ -252,3 +252,12 @@ input::placeholder{
     width: 60%;
   }
 }
+
+.forgot-pwd{
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.login-btn{
+  cursor: pointer;
+}
