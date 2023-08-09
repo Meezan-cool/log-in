@@ -135,7 +135,7 @@ input::placeholder{
   font-size: .8rem;
   position: relative;
   /* top: 2000%; */
-  top: 25px;
+  top: 10px;
   color: rgb(166, 165, 165);
 }
 @media(max-width:1250px){
@@ -171,7 +171,7 @@ input::placeholder{
     width: 40vh !important;
   }
   .login_content form button{
-    width: 43.5vh !important;
+    width: 33.5vh !important;
   }
   .term{
     top: -20px;
@@ -191,7 +191,7 @@ input::placeholder{
     width: 30vh !important;
   }
   .login_content form button{
-    width: 33.5vh !important;
+    width: 23.5vh !important;
   }
   .login_content_header{
     display: flex;
@@ -205,7 +205,7 @@ input::placeholder{
     width: 25vh !important;
   }
   .login_content form button{
-    width: 28.5vh !important;
+    width: 18.5vh !important;
   }
 }
 @media(max-width:340px){
@@ -214,7 +214,7 @@ input::placeholder{
     padding: 10px 4px !important;
   }
   .login_content form button{
-    width: 23.5vh !important;
+    width: 15.5vh !important;
     padding: 10px 4px !important;
   }
   input::placeholder{
