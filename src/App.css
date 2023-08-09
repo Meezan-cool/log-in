@@ -107,10 +107,8 @@
 }
 .input_password i{
   position: absolute;
-  /* top: 12px; */
   top: 30%;
   right: 6%;
-  /* right: 1rem; */
   color: rgb(214, 212, 212);
   
 }
@@ -134,7 +132,6 @@ input::placeholder{
   font-weight: bolder;
   font-size: .8rem;
   position: relative;
-  /* top: 2000%; */
   top: 10px;
   color: rgb(166, 165, 165);
 }
