@@ -244,7 +244,7 @@ input::placeholder{
     width: 33.5vh;
   }
 }
-@media (min-width:1440px){
+@media (min-width:1441px){
   .login_card{
     width: 60%;
   }
